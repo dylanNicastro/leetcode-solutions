@@ -12,4 +12,4 @@ char* longestCommonPrefix(char** strs, int strsSize) {
         }
     } while (prefix[i]);
     return prefix;
-}.
+}

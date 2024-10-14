@@ -12,4 +12,4 @@ class Solution(object):
                 return [index, table[target-num][0]]
             table.setdefault(num, [-1, 0])
             table[num] = [index, table[num][1]+1] # otherwise add number to dict and go next
-        return None.
+        return None

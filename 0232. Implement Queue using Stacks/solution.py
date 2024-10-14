@@ -42,7 +42,7 @@ class MyQueue(object):
         if not self.queue:
             return True
         return False
-        .
+        
 
 
 # Your MyQueue object will be instantiated and called as such:
