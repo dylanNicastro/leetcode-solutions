@@ -11,4 +11,4 @@ bool isPalindrome(int x) {
     }
     if (x_orig == x_rev) return true;
     else return false;
-}
+}.

@@ -7,4 +7,4 @@ class Solution(object):
         :rtype: str
         """
         date = datetime.datetime(year, month, day)
-        return date.strftime("%A")
+        return date.strftime("%A").

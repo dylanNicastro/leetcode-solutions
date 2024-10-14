@@ -7,4 +7,4 @@ class Solution(object):
         string = str(x)
         if string != string[::-1]:
             return False
-        return True
+        return True.
